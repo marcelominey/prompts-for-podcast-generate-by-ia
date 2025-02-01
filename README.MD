@@ -80,12 +80,12 @@ Utilize os prompts disponibilizados neste github para criar um podcast de maneir
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/marcelominey">
+        href="https://www.linkedin.com/in/marcelominey">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/bad_mimis.exe/">
+        href="https://www.instagram.com/bad_mimis/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
